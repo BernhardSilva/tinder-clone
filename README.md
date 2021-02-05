@@ -1,4 +1,4 @@
-# tinder-clonE
+# tinder-clone
 A tinder clone app for test some skills.
 # Getting Started with Create React App
 
