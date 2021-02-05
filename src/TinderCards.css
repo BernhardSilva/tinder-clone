@@ -1,4 +1,4 @@
-.card{
+.card {
     position: relative;
     background-color: white;
     width: 600px;
@@ -9,4 +9,26 @@
     border-radius: 20px;
     background-size: cover;
     background-position: center;
+}
+
+.tinderCards_cardContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
+
+.swipe {
+    position: absolute;
+}
+
+.cardContent {
+    width: 100%;
+    height: 100%;
+}
+
+.card h3 {
+    position: absolute;
+    bottom: 0;
+    margin: 10px;
+    color: #fff;
 }
